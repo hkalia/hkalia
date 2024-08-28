@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+
+Lifelong tech enthusiast and full-stack software engineer with a passion for solving complex problems and building innovative solutions. My love for technology started at a young age, building my first website in XHTML, and has only grown stronger since. I've made significant contributions at Allstate, working on projects that saved millions and directly improved the customer experience. As a collaborative team player, I thrive in Agile settings, applying my expertise in Java, TypeScript, React, Spring Boot, and a variety of other tools.
+
+My curiosity extends beyond software development to the intricacies of computer hardware, embedded systems, and the mathematical foundations that underpin it all. I'm equally fascinated by microcontrollers, Arduino projects, and the theoretical aspects of linear algebra and discrete math.
+
+Let's connect! I'm always eager to discuss new opportunities, collaborate on exciting projects, or simply exchange ideas about the ever-evolving world of technology.
 
 <!--
 **hkalia/hkalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
